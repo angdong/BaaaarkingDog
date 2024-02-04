@@ -1,0 +1,1 @@
+heap[new_idx]
